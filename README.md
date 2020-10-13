@@ -6,7 +6,7 @@
 - 📚 I'm currently reading ...too many books at once, as is tradition. The big 3 in the rotation currently are [Another Brooklyn](https://www.goodreads.com/book/show/27213163-another-brooklyn), [The Fall of Hyperion](https://www.goodreads.com/book/show/77565.The_Fall_of_Hyperion), and [A People's History of the United States](https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States)
 - 🏢 I'm looking to collaborate on anything! Reach out! 
 - 🎮 I'm currently playing Dark Souls 3, and I swear I'm gonna get through it this time. 
-- 📧 I'm reachable at jpmckenna90@gmail.com as well as [on LinkedIn](https://www.linkedin.com/in/james-mckenna-88936b104/)
+- 📧 I'm reachable at jpmckenna90@gmail.com as well as [on LinkedIn](https://www.linkedin.com/in/james-mckenna-88936b104/).
 
 
 <!--
