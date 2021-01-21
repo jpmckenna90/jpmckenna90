@@ -10,6 +10,8 @@
 - 📧 I'm reachable at jpmcodes@gmail.com as well as [on LinkedIn](https://www.linkedin.com/in/james-mckenna-88936b104/).
 - 🐈 Cats, 3 of 'em. 
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=jpmckenna90&count_private=true)
+
 <!--
 **jpmckenna90/jpmckenna90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
