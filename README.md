@@ -1,6 +1,6 @@
 ### Hello world!
 
-
+- 💻 Engineer I at Comcast
 - 👨‍💻 HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MySQL, NoSQL, Python, Ansible
 - 📚 I'm currently reading ...too many books at once, as is tradition. The big 3 in the rotation currently are [Her Body and Other Parties](https://www.goodreads.com/book/show/33375622-her-body-and-other-parties), [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind), and [A People's History of the United States](https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States)
 - 🏢 I'm looking to collaborate on anything! Reach out! 
